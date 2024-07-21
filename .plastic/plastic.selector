@@ -1,0 +1,4 @@
+repository "视角控制总结@yyf_yyf@cloud.cn"
+  path "/"
+    smartbranch "/main" 
+     
